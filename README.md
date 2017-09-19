@@ -23,8 +23,8 @@ Nous visons principalement les habitants, les usagers et les associations du qua
 
 Plusieurs événements et animations artistiques vont être organisés dans différents lieux du quartier durant un seul et même week-end. Ces événements auront chacun une orientation propre, mais ils seront en lien les uns avec les autres et intégreront un ensemble cohérent. Cette cohérence sera reflétée au travers de la communication qui en sera faite.
 
-▪ Découverte d’un parcours artistique unique : les visiteurs seront invités à déambuler dans le quartier au gré de leurs centres d’intérêts et de leurs envies pour découvrir les multiples lieux d’exposition/de présentation/d’animation.
-▪ Des expositions : une septantaine d’artistes exposeront dans des lieux emblématiques du quartier ou ouvriront leurs ateliers.
-▪ Des œuvres dans l’espace urbain : les visiteurs seront invités à découvrir différentes œuvres et/ou animations, se déroulant sur l’espace public, tout au long du parcours.
-▪ Une ambiance musicale conviviale : concerts, spectacles, bal aux lampions,...
+- Découverte d’un parcours artistique unique : les visiteurs seront invités à déambuler dans le quartier au gré de leurs centres d’intérêts et de leurs envies pour découvrir les multiples lieux d’exposition/de présentation/d’animation.
+- Des expositions : une septantaine d’artistes exposeront dans des lieux emblématiques du quartier ou ouvriront leurs ateliers.
+- Des œuvres dans l’espace urbain : les visiteurs seront invités à découvrir différentes œuvres et/ou animations, se déroulant sur l’espace public, tout au long du parcours.
+- Une ambiance musicale conviviale : concerts, spectacles, bal aux lampions,...
 
