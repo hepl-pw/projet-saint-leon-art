@@ -28,3 +28,74 @@ Plusieurs événements et animations artistiques vont être organisés dans diff
 - Des œuvres dans l’espace urbain : les visiteurs seront invités à découvrir différentes œuvres et/ou animations, se déroulant sur l’espace public, tout au long du parcours.
 - Une ambiance musicale conviviale : concerts, spectacles, bal aux lampions,...
 
+## Plan de site souhaité
+
+### Accueil
+La page d’accueil aura pour objectif de présenter l’événement, avec la mise en avant de la date et des lieux, la présentation de quelques artistes (aléatoirement choisis), affichage des dernières news, inscription à la newsletter, une partie de la programmation (date les plus proches) et les réseaux sociaux. Intégration d’un fil de photos instagram activable ou désactivable.
+
+
+### Programme 
+	
+  - Expositions / parcours artistique -> Renvoyant pour chaque lieu vers une page de description du lieu avec l’adresse, quelques images, les réseaux sociaux et le contact.
+	- Concerts, spectacles
+	- Œuvres dans l’espace urbain
+	- Évènements divers
+	- Artistes participants -> Renvoyant pour chaque artiste vers une page profil permettant de présenter l’artiste, 2-3 œuvres qu’il a réalisé (photos et/ou vidéos) ainsi que des liens vers ses réseaux sociaux. L’affichage du lieu ou l’artiste expose serait un plus.
+
+#### Exemple de profil d’artiste :
+
+  - Nom & prénom
+  - Présentation + description
+  - Liste d’information optionnelles : (Ces informations seront prévues et affichées si les champs sont remplis dans l’administration)
+  - Adresse 
+  - E-mail
+  - Téléphone
+  - Site web
+  - Facebook
+  - Twitter
+  - Instagram
+  - Linkedin
+
+### Agenda
+
+Page reprenant l’agenda global et la possibilité de trier par jour, par lieux et / ou par type d’événement.
+
+### En pratique
+
+Page reprenant toutes les informations pratiques, les différents lieux, les accès, les parkings, les transports en communs et autres informations importantes.
+
+### News / Actualités
+
+Page reprenant toutes les actualités. Possibilité de les trier par catégories / dates de publications.
+
+### À propos
+
+Page permettant la présentation de l’événement ainsi que des organisateurs de celui-ci et un espace presse. 
+Possibilité de parler un peu des éditions précédentes et d’y présenter les supports utilisés et un résumé en chiffre (nombre d’artistes, nombre de visiteurs, etc.)
+
+### Partenaires
+
+Affichage des logos des sponsors et liens vers sites ou réseaux sociaux
+
+### Contact
+
+Coordonnées de l’asbl organisatrice, formulaire de contact, informations générales
+
+
+## Demandes complémentaires :
+
+- Un système de recherche par artiste, lieux, événement serait fort pratique
+
+- Une section privée permettant aux organisateurs de communiquer les documents et rapports de réunions serait un vrai plus pour l’organisation et la gestion de l’événement.
+
+- Globalement, Il serait intéressant de pouvoir partager des évènements de l’agenda et des profils d’artistes sur les réseaux sociaux ( facebook, twitter )
+
+## Lien vers les réseaux sociaux à prévoir :
+
+- Facebook
+- Twitter
+- Instagram
+
+## Système de newsletter utilisé : 
+
+- Mailchimp
